@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "package.json": "^2.0.1"
+  },
+  "name": "hello-world",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "hint": "^7.1.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
